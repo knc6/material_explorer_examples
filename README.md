@@ -43,6 +43,7 @@ Cartesian
 5. How do I interpret a phase diagram?
 6. Can you explain the band structure of silicon?
 7. Retrieve materials with the chemical formula Al2O3 from the JARVIS-DFT database and summarize their properties.
+8. Find all materials containing chemical formula MoS2 in the JARVIS-DFT, Materials Project, COD and C2DB databases and their total number. Present them all in individual table format.
 
 (If you good prompts worth sharing with others, make a pull request to this README file)
 
