@@ -40,6 +40,8 @@ Cartesian
 6. Can you explain the band structure of silicon?
 7. Retrieve materials with the chemical formula Al2O3 from the JARVIS-DFT database and summarize their properties.
 
+(If you good prompts worth sharing with others, make a pull request to this README file)
+
 # Feedback/suggestions
 If you have any suggestions/feedback, please fill this form:
 
