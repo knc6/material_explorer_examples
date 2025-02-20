@@ -15,6 +15,8 @@ Researchers, engineers, and students working on material discovery and character
 
 # ChatGPT Material Exlorer Example Prompts:
 
+There are no limits to the types of questions you can ask Material Explorer. Below are just a few examples. You can also engage in an iterative conversation, asking follow-up questions or requesting explanations of the results.
+
 1. Find all materials containing Carbon (C) and Silicon (Si) in the JARVIS-DFT database and their total number. Present in table format.
 2. Find all materials containing Carbon (C) and Silicon (Si) in the C2DB database and their total number. Present in table format.
 3. Find all materials containing chemical formula MoS2 in the JARVIS-DFT database and their total number. Present in table format. (Note chemical formula should be alphabetically ordered, so O2Si not SiO2)
@@ -34,6 +36,9 @@ Cartesian
 1.54989 0.8948317896599827 2.536082821967849
 0.0 0.0 5.080550587658042
 0.0 0.0 0.0048555876580418525
+5. How do I interpret a phase diagram?
+6. Can you explain the band structure of silicon?
+7. Retrieve materials with the chemical formula Al2O3 from the JARVIS-DFT database and summarize their properties.
 
 # Feedback/suggestions
 If you have any suggestions/feedback, please fill this form:
