@@ -12,6 +12,10 @@
 ### 🔬 Ideal For  
 Researchers, engineers, and students working on material discovery and characterization. ✨  
 
+### Note: 
+
+Some features may require ChatGPT subscription for compute capacity.
+
 
 # ChatGPT Material Exlorer Example Prompts:
 
@@ -48,4 +52,16 @@ If you have any suggestions/feedback, please fill this form:
 [https://forms.gle/Dw45bpMSJQeZ2ABw7](https://forms.gle/Dw45bpMSJQeZ2ABw7)
 
 (More details coming soon)
+
+# Disclaimer: 
+
+While we strive for accuracy, the information retrieved and analyzed by this tool is dependent on third-party sources and computational models, which may have inherent limitations or uncertainties.
+
+This tool is intended for research and informational purposes only. It should not be used as a substitute for experimental validation or professional engineering judgment. Users are encouraged to verify critical data through independent sources before making any scientific, industrial, or commercial decisions.
+
+By using Material Explorer 1.0, you acknowledge that:
+
+The tool and its developers do not guarantee the accuracy, completeness, or reliability of the provided data.
+We are not liable for any direct or indirect damages resulting from the use of this tool or its outputs.
+Users are responsible for ensuring compliance with intellectual property laws, licensing agreements, and ethical guidelines when utilizing external datasets.
 
