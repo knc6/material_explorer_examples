@@ -2,6 +2,11 @@
 
 **Material Explorer 1.0** is a specialized assistant for material science research. It helps users explore material properties, crystal structures, phase diagrams, and computational simulations. It provides data from sources like **JARVIS-DFT, AFLOW, C2DB, and Alexandria** etc. to assist in material selection, comparison, and application.  
 
+## 📺 Related YouTube Playlist
+
+[🎥 Watch the Playlist on YouTube](https://www.youtube.com/playlist?list=PLjf6vHVv7AoK22-cHlApfBpSKBf6oBg4A)
+
+
 ## 🔹 Key Features  
 - ✅ Fetching material properties (density, energy, bulk modulus)  
 - ✅ Identifying crystal structures and space groups  
